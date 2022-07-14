@@ -1,5 +1,9 @@
 # EDGEMONY FINAL PROJECT - TEAM B
 
+##   SoundWave
+
+![image](https://user-images.githubusercontent.com/101188945/178952828-8dcbc6a1-abe9-467e-85f3-780166ca6393.png)
+
 ## Organizzazione
 
 - daily standup **lun-ven 9.30-10**
@@ -10,14 +14,9 @@
 ## Strumenti
 
 - Github
-  - repo
-  - issues
-  - board
 - Slack
 - Google Meet & Calendar
-- hosting: **scelta libera**
-- framework: **scelta tra CRA, Vite, Next**
-- librerie: **scelta libera**
+- Framework: Next.js
 
 ## Backend
 
@@ -48,19 +47,10 @@ i dati esposti seguono questo schema:
 
 L'utilizzo degli endpoint con autenticazione è documento nel [relativo repository](https://github.com/edgemony-coding-bootcamp/edgemony-course-backend).
 
-> NB: su richiesta è possibile modificare lo schema per aggiungere nuovi dati.
 
-## Repository
+## Obiettivi
 
-- il branch `main` è protetto
-- ogni task viene sviluppato in una branch con nomenclatura `feature/[task]` o `fix/[task]` in base alla tipologia
-- per mergiare il codice da una branch verso `main` si crea una PR assegnando tutti i membri del team come reviewer
-- le PR possono essere mergiate solo aver ricevuto **almeno 1 approvazione**
-- siete liberi di fare fork ma solo questo repo sarà quello preso in considerazione
-
-## Obiettivo
-
-- **SPOTIFY CLONE! (EDGIFY)**
+- **SPOTIFY CLONE!**
   - usate l'attuale UI di Spotify come punto di partenza ma siete liberi di applicare eventuali personalizzazioni
 - **obiettivi minimi:**
   - visualizzare lista (in griglia) di album e playlist disponibili
@@ -77,6 +67,12 @@ L'utilizzo degli endpoint con autenticazione è documento nel [relativo reposito
   - flusso creazione nuove utente (signup)
   - ricerca testuale (titolo)
   - filtri avanzati (artista, anno, ecc)
+  
+  ## Credentials to access
+  
+mail : goofy@soundwave.com
+
+password : 1234
 
 ---
 
